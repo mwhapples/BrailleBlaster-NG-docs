@@ -13,7 +13,7 @@ BrailleBlaster](https://www.youtube.com/watch?v=682dbbo6SmU&t=2s)!
 
 ### Modifying the View
 
-BrailleBlaster's customizable interface allows you to adjust the size
+BrailleBlaster’s customizable interface allows you to adjust the size
 and placement of tools to suit your preferences.
 
 #### Changing Font Size
@@ -23,8 +23,8 @@ aware that increasing or decreasing the font size may change how much
 text is shown on the screen in the Print and Braille Views.
 
 To change Font Size either go to View \> Increase Font Size or Decrease
-Font Size. You can also use the shortcuts (Ctrl + "+") to Increase Font
-Size OR (Ctrl + "-") to Decrease Font Size.
+Font Size. You can also use the shortcuts (Ctrl + “+”) to Increase Font
+Size OR (Ctrl + “-”) to Decrease Font Size.
 
 #### Modifying Toolbar Icons
 
@@ -39,7 +39,7 @@ To change how the toolbar buttons are displayed:
 1.  Go to View \> Toolbar. The buttons that are currently shown on the
     toolbar have checkmarks beside them.
 2.  Check or uncheck which grouping of buttons you would like to have
-    shown or hidden in the toolbar.\
+    shown or hidden in the toolbar.  
     **Note:** The default for the toolbar buttons is all groupings are
     shown in the toolbar, except for the View and Math tools.
 
@@ -58,8 +58,8 @@ to focus on one view or multiple views.
 **Note:** You can only make changes to the text from within the Print
 View.
 
-**Braille:** Shows the Braille text\
-**Style:** Shows which style is applied to the text.\
+**Braille:** Shows the Braille text  
+**Style:** Shows which style is applied to the text.  
 **Breadcrumbs:** Shows what styles are applied to sections of the text
 in the bottom section of the toolbar. Like a trail of breadcrumbs, it
 shows every style used leading up to that specific piece of text.
@@ -67,20 +67,23 @@ shows every style used leading up to that specific piece of text.
 {{html
 
 <ol>
+
 <li value=2>
 
 Unchecking an item hides the view from the window.
 
 </li>
+
 <li>
 
 Whenever a view is hidden and then displayed it moves to the right-hand
 side of the screen.
 
 </li>
+
 </ol>
 
-}}\
+}}  
 **Note:** At least one view must always be displayed.
 
 #### Rearrange Views
@@ -107,10 +110,10 @@ to appear as simulated braille or ASCII.
 
 ![View window with View Braille highlighted](viewbraille.PNG "View window with View Braille highlighted")
 
-**View Braille Checked**\
+**View Braille Checked**  
 ![Braille view with lots of braille](viewbraillebraille.PNG "Braille view with lots of braille")
 
-**View Braille Unchecked**\
+**View Braille Unchecked**  
 ![Braille view with lots of ASCII text](viewbrailleASCII.PNG "Braille view with lots of ASCII text")
 
 #### Previewing Your File as an Embossed Braille Document
@@ -128,7 +131,7 @@ by going to View \> 2 Page View and unchecking it.
 To preview a BRF go to File \> Braille Preview OR use the keyboard
 shortcut (Alt + Home). This opens the Braille Preview window.
 
-![Braille Preview window showing braille next to braille](braillepreview.PNG "Braille Preview window showing braille next to braille")\
+![Braille Preview window showing braille next to braille](braillepreview.PNG "Braille Preview window showing braille next to braille")  
 **Note:** When you open a BRF in BrailleBlaster it appears in this
 Braille Preview window. You cannot edit the BRF, but it can be embossed
 by going to File \> Emboss within the Braille Preview menu or using the
@@ -204,7 +207,7 @@ you create your document.
 
 If you want to open a file in BrailleBlaster or continue working on a
 file you have already created, go to File \> Open or use the keyboard
-shortcut (Ctrl + O) to open the file.\
+shortcut (Ctrl + O) to open the file.  
 BrailleBlaster opens many different types of files. When you select Open
 in the File menu, a list of the recognized file types is displayed.
 
@@ -214,16 +217,19 @@ BrailleBlaster **except** in NIMAS XML, TXT, BRL, and ZIP file types.
 {{html
 
 <ul style="list-style-type:none;">
+
 <li>
 
 BB XML (\*.bbx)
 
 </li>
+
 <li>
 
 BB Archive (\*.bbz)
 
 </li>
+
 <li>
 
 Braille Ready File (\*.brf) **Note:** When BrailleBlaster opens a BRF,
@@ -232,61 +238,73 @@ Document\|Braille Preview\]\] window and no changes can be made to the
 file.
 
 </li>
+
 <li>
 
 Braille text (\*.brl)
 
 </li>
+
 <li>
 
 Microsoft Word files (\*.docx)
 
 </li>
+
 <li>
 
 EPUB e-books (\*.epub)
 
 </li>
+
 <li>
 
 HTML files (\*.htm or \*.html)
 
 </li>
+
 <li>
 
 Markdown files (\*.md)
 
 </li>
+
 <li>
 
 Open Document files (\*.odt)
 
 </li>
+
 <li>
 
 LaTeX files (\*.tex)
 
 </li>
+
 <li>
 
 Text files (\*.txt)
 
 </li>
+
 <li>
 
 XHTML files (\*.xhtml or \*.xhtm or \*.xht)
 
 </li>
+
 <li>
 
 NIMAS XML files (\*.xml)
 
 </li>
+
 <li>
 
 NIMAS zipped files (\*.zip)
 
 </li>
+
 </ul>
 
 }}
@@ -380,9 +398,9 @@ To navigate to a particular page:
 ![Go To window with Print Page radio button selected](gotopage.PNG "Go To window with Print Page radio button selected")
 
 **Print Page:** The page number normally displayed in the top-right
-corner of a braille page.\
+corner of a braille page.  
 **Braille Page:** The page number normally displayed in the bottom-right
-corner of a braille page.\
+corner of a braille page.  
 **Ordinal Page:** The page number out of the total number of pages in
 your document, regardless of how the print and braille page numbers
 appear.
@@ -396,15 +414,17 @@ file.
 {{html
 
 <ol>
+
 <li value=3>
 
 Type the desired page number in the textbox and select Go To to complete
 the action.
 
 </li>
+
 </ol>
 
-}}\
+}}  
 **Note:** If you have made changes to the page numbers in your file, you
 can also quickly navigate to those pages you have changed through the
 Page Change List in the Page Number Dialog. See \[\[#Viewing Page Number
@@ -447,9 +467,9 @@ Go to Settings \> Page Properties
 
 From here you can set your Page Size, Lines Per Page, Cells Per Line,
 and Margins of your document. You can also change whether you want your
-margins to be represented in inches or by cells or lines.\
-The Page Size default is set to 11.5" x 11"; Margins defaults are set to
-top 0.5", bottom 0.5", left margin 1.25", right margin 0.48".
+margins to be represented in inches or by cells or lines.  
+The Page Size default is set to 11.5” x 11”; Margins defaults are set to
+top 0.5”, bottom 0.5”, left margin 1.25”, right margin 0.48”.
 
 The option Interpoint can be set for Yes or No. Setting it for Yes will
 emboss your file on both sides of the page. Setting it for No will
@@ -475,11 +495,13 @@ for no running head, as it is not needed for all transcriptions.
 {{html
 
 <ol>
+
 <li value=3>
 
 Select OK to save your changes.
 
 </li>
+
 </ol>
 
 }}
@@ -508,11 +530,13 @@ users to print the braille view for quick review.
 {{html
 
 <ol>
+
 <li value=3>
 
 Select the Print button to print the Print View of your document.
 
 </li>
+
 </ol>
 
 }}
@@ -529,11 +553,13 @@ Select the Print button to print the Print View of your document.
 {{html
 
 <ol>
+
 <li value=4>
 
 Click the Print button to send your file to the printer.
 
 </li>
+
 </ol>
 
 }}
@@ -548,18 +574,21 @@ Click the Print button to send your file to the printer.
 {{html
 
 <ol>
+
 <li value=2>
 
 Complete the fields in the Edit embosser window to configure your
 embosser profile.
 
 </li>
+
 <li>
 
 Click OK to complete your embosser profile set up or click Cancel to
 close the window without saving any changes.
 
 </li>
+
 </ol>
 
 }}
@@ -574,7 +603,7 @@ but BrailleBlaster only displays a limited number of characters.
 **Embosser Device:** Select your embosser of choice from the dropdown
 list of all available printers and embossers.
 
-**Embosser Manufacturer:** Select your embosser's manufacturer from the
+**Embosser Manufacturer:** Select your embosser’s manufacturer from the
 following choices. Listed after each manufacturer are the available
 models.
 
@@ -642,7 +671,7 @@ models.
   - Braillo 600SR
   - Braillo 270
 
-**Note:** If you do not know your embosser's manufacturer, it is
+**Note:** If you do not know your embosser’s manufacturer, it is
 recommended you select Generic.
 
 **Embosser Model:** Select from the available Embosser models, listed
@@ -656,8 +685,8 @@ issues with specific embossers and normally should be left at their
 default values. You may be asked to alter the advanced options if you
 contact support regarding an embosser issue.
 
-Currently advanced options are only available for the generic "Text
-only" and "Text with margins" embosser models. Below is a list of the
+Currently advanced options are only available for the generic “Text
+only” and “Text with margins” embosser models. Below is a list of the
 advanced options.
 
 - Add margins (true, false)
@@ -674,14 +703,14 @@ most ASCII characters you can just type the character itself. However
 for characters which may not be easy to type there are a few escape
 sequences which are given in the below list.
 
-- \\\\ to enter a backslash.
-- \\r to enter carrage return
-- \\n to enter new line.
-- \\t to enter tab.
-- \\f to enter form feed.
-- \\x followed by two hexadecimal characters to enter any byte. For
+- \\ to enter a backslash.
+- \r to enter carrage return
+- \n to enter new line.
+- \t to enter tab.
+- \f to enter form feed.
+- \x followed by two hexadecimal characters to enter any byte. For
   example to enter the byte with hexadecimal value 1B (sometimes known
-  as escape) you would enter \\x1b into the option.
+  as escape) you would enter \x1b into the option.
 
 #### Embossing a Document ![Emboss icon](embossicon.PNG "Emboss icon")
 
@@ -700,6 +729,7 @@ Embosser\|Setting up an Embosser\]\].
 {{html
 
 <ol>
+
 <li value=2>
 
 Select your embosser, the number of copies you wish to emboss, as well
@@ -707,6 +737,7 @@ as the page range (All or a range between 1 and the final page of the
 document).
 
 </li>
+
 </ol>
 
 }}
@@ -718,11 +749,13 @@ Embosser\|Embosser Settings\]\] window.
 {{html
 
 <ol>
+
 <li value=3>
 
 Click OK to emboss or click Cancel to close the window.
 
 </li>
+
 </ol>
 
 }}
@@ -749,6 +782,7 @@ To create a table manually:
 {{html
 
 <ol>
+
 <li value=3>
 
 In the lower right corner of the screen there are two textboxes labeled
@@ -757,17 +791,20 @@ or remove rows and columns by entering the number of Rows and Columns
 you want your table to have.
 
 </li>
+
 <li>
 
 Begin adding the text for each entry.
 
 </li>
+
 <li>
 
 (Optional step) To add Emphasis or a different Translation, use the
 dropdown menus from the toolbar.
 
 </li>
+
 </ol>
 
 }}
@@ -777,7 +814,7 @@ to All or Add Math Translation to All to change all entries at once; or
 Remove All Emphasis from the table if emphasis is not necessary.
 
 Emphasis: You can use any of the forms of Emphasis that are found in the
-Emphasis toolbar in BrailleBlaster's main window and apply them to text
+Emphasis toolbar in BrailleBlaster’s main window and apply them to text
 in the table.
 
 Translation: You can use Direct Translation, Uncontracted Translation,
@@ -785,8 +822,8 @@ or Math Translation to change the braille translation to suit your
 needs.
 
 \* Direct Translation is used when you have or need ASCII,
-pre-translated braille. An example would be #id for number sign 14. This
-translation type is used to force the translation type using [ASCII
+pre-translated braille. An example would be \#id for number sign 14.
+This translation type is used to force the translation type using [ASCII
 braille](https://en.wikipedia.org/wiki/Braille_ASCII).
 
 \* Uncontracted Translation is used when you need the braille to appear
@@ -803,6 +840,7 @@ Translation changes are the same in the Table Editor as they are in the
 {{html
 
 <ol>
+
 <li value=6>
 
 Check that the Table type in the lower left corner of the window is on
@@ -811,6 +849,7 @@ style type of table BrailleBlaster thinks is the best fit for the amount
 and length of the information in your table.
 
 </li>
+
 </ol>
 
 }}
@@ -829,7 +868,7 @@ The Simple table style sets the table to display as a standard braille
 table with columns and rows and a line separator beneath each column
 heading.
 
-![simple table; print example](simpletableprint.PNG "simple table; print example")\
+![simple table; print example](simpletableprint.PNG "simple table; print example")  
 ![simple table; braille example](simpletablebraille.PNG "simple table; braille example")
 
 ##### Make a Listed Table
@@ -840,7 +879,7 @@ become the first part of each listed item, followed by a colon, which is
 inserted automatically. Information in the column fields is added after
 the colon for each appropriate list item.
 
-![listed table; print example](listedtableprint.PNG "listed table; print example")\
+![listed table; print example](listedtableprint.PNG "listed table; print example")  
 ![listed table; braille example](listedtablebraille.PNG "listed table; braille example")
 
 ##### Make a Stairstep Table
@@ -849,16 +888,16 @@ The Stairstep table creates a table format where each row is represented
 as a collection of text with indentions so that each column of the table
 is set at a different margin.
 
-![stairstep table; print example](stairsteptableprint.PNG "stairstep table; print example")\
+![stairstep table; print example](stairsteptableprint.PNG "stairstep table; print example")  
 ![stairstep table; braille example](stairsteptablebraille.PNG "stairstep table; braille example")
 
 ##### Make a Linear Table
 
 The Linear table format places the Column Headings in a \[\[#Creating
-the Transcriber's Notes Page\|Transcriber's Note\]\] before the text and
+the Transcriber’s Notes Page\|Transcriber’s Note\]\] before the text and
 each row is put into a linear list separated by colons and semicolons.
 
-![linear table; print example](lineartableprint.PNG "linear table; print example")\
+![linear table; print example](lineartableprint.PNG "linear table; print example")  
 ![linear table; braille example](lineartablebraille.PNG "linear table; braille example")
 
 #### Editing Tables
@@ -867,8 +906,8 @@ Any changes to the text within a table must occur within the Table
 Editor, whether it is simply correcting a typo or adding columns and
 rows, as the text cannot be edited in the Print View. To use the Table
 Editor, the cursor must be placed inside text designated as a table.
-Otherwise, BrailleBlaster generates the error message "Cursor is not on
-table." Some of the features can be used for any table, while others are
+Otherwise, BrailleBlaster generates the error message “Cursor is not on
+table.” Some of the features can be used for any table, while others are
 specific to each table type.
 
 ##### Adding or Removing Emphasis
@@ -899,7 +938,7 @@ When the Simple table style is applied, a button appears to the right of
 the drop-down menu labeled Simple Table Options.
 
 1.  Open the Simple Table Options. This opens a window with several
-    tools for customizing your table:\
+    tools for customizing your table:  
     ![simple table options window](simpletableoptions.PNG "simple table options window")
     - Cells between columns: Choose either 2 cells between each column
       or 1 cell between each column. The default is 2.
@@ -925,7 +964,7 @@ number in parentheses, either a (1) or a (2). This number represents the
 number of Cells between columns. The fields can be edited to change the
 width of each column as desired.
 
-The text Total Width: "X" is shown below the fields, where "X" is the
+The text Total Width: “X” is shown below the fields, where “X” is the
 total number of cells the columns, and the spaces between them, occupy
 on the braille page. This number automatically changes as the column
 widths are changed. This can be useful to ensure custom column widths do
@@ -934,7 +973,7 @@ not exceed the width of the braille page.
 ##### Edit a Listed Table
 
 When the Listed table style is applied, a button appears to the right of
-the drop-down menu labeled Create Transcriber's Note Heading.
+the drop-down menu labeled Create Transcriber’s Note Heading.
 
 ![table editor window; listed table; create transcriber note heading indicated with red arrow](tablelistedTN.PNG "table editor window; listed table; create transcriber note heading indicated with red arrow")
 
@@ -942,12 +981,12 @@ To edit a Listed table:
 
 1.  Select the Create Transcriber Note Heading button. This action adds
     a text field to the top of the Table Editor allowing you to create a
-    \[\[#Creating the Transcriber's Notes Page\|Transcriber's Note\]\]
+    \[\[#Creating the Transcriber’s Notes Page\|Transcriber’s Note\]\]
     explaining the format of your table.
-2.  The 7-5 text field is set to the default text: "Print format is
+2.  The 7-5 text field is set to the default text: “Print format is
     changed. Row headings are blocked in cell 5; column headings begin
     in cell 1. All headings are repeated for clarity. A colon separates
-    headings from table entries." This text can be edited to fit your
+    headings from table entries.” This text can be edited to fit your
     document needs, and appears with 7-5 margins.
 
 ![table editor window; listed table; TN heading example](listedtableTN.PNG "table editor window; listed table; TN heading example")
@@ -955,11 +994,13 @@ To edit a Listed table:
 {{html
 
 <ol>
+
 <li value=3>
 
 Click Ok to return to the Table Editor.
 
 </li>
+
 </ol>
 
 }}
@@ -977,9 +1018,9 @@ To edit a Stairstep table:
 
 ![table editor window; stairstep table; remove transcriber note heading selected](stairsteptableTN.PNG "table editor window; stairstep table; remove transcriber note heading selected")
 
-7-5: This first field with 7-5 margins is for the Transcriber's Note
+7-5: This first field with 7-5 margins is for the Transcriber’s Note
 that precedes the table, informing the reader of the Stairstep format.
-The text defaults to "Table changes as follows:" but may be edited as
+The text defaults to “Table changes as follows:” but may be edited as
 needed.
 
 1-1, 3-3, 5-5, etc: These next fields proceed in the standard Stairstep
@@ -988,11 +1029,13 @@ format. Each of these fields can be edited as needed.
 {{html
 
 <ol>
+
 <li value=3>
 
 3\. Click Ok to return to the Table Editor.
 
 </li>
+
 </ol>
 
 }}
@@ -1010,7 +1053,7 @@ To edit a Linear table:
 
 ![table editor window; linear table; remove transcriber note heading selected](lineartableTN.PNG "table editor window; linear table; remove transcriber note heading selected")
 
-7-5: This field is for the transcriber's note with 7-5 margins informing
+7-5: This field is for the transcriber’s note with 7-5 margins informing
 the reader that the table format is changed.
 
 1-3: This field with 1-3 margins is for the explanation of the column
@@ -1022,11 +1065,13 @@ additional heading.
 {{html
 
 <ol>
+
 <li value=3>
 
 3\. Click Ok to return to the Table Editor.
 
 </li>
+
 </ol>
 
 }}
@@ -1039,12 +1084,12 @@ two ways to reformat: Reformat Table and Advanced Reformat.
 To reformat a table:
 
 1.  Go to Actions \> Reformat Table.
-2.  A pop-up window opens that reads "Reformatting a table will convert
+2.  A pop-up window opens that reads “Reformatting a table will convert
     the table formatting to plain text. Are you sure you want to
-    continue?" Click Yes to continue or No to cancel.
+    continue?” Click Yes to continue or No to cancel.
 3.  When Yes is clicked, a new window opens, displaying a list of
     styles. Select a style to have all the table text reformatted into
-    that style.\
+    that style.  
     ![Select window to reformmat table](reformattable.PNG "Select window to reformmat table")
 4.  Click Ok to confirm the style choice and reformat that table into
     normal text.
@@ -1087,19 +1132,21 @@ To insert a line number to Prose:
     line numbers displayed, or you can highlight the text in the Print
     View.
 3.  To add the Prose tag, click the Wrap Prose button in the Line Number
-    Tools toolbar OR use the keyboard shortcut (Ctrl + F2).\
+    Tools toolbar OR use the keyboard shortcut (Ctrl + F2).  
     **Note:** Wrap Prose does not affect the text other than allowing it
     to display line numbers.
 
 {{html
 
 <ol>
+
 <li value=4>
 
 Choose how to number the lines using either the Line Number or Increment
 by fields:
 
 </li>
+
 </ol>
 
 }}
@@ -1118,12 +1165,14 @@ on.
 {{html
 
 <ol>
+
 <li value=5>
 
 Select Insert OR use the keyboard shortcut (F2) to place those line
 numbers in the text.
 
 </li>
+
 </ol>
 
 }}
@@ -1152,11 +1201,13 @@ Line Number window automatically closes.
 {{html
 
 <ol>
+
 <li value=6>
 
 Click DONE, which closes the dialog.
 
 </li>
+
 </ol>
 
 }}
@@ -1253,8 +1304,8 @@ described:
 1.  Highlight the text you want to be a numeric series.
 2.  Go to Math \> Numeric Series.
 
-This action places dot 5's where the spaces previously were. If there
-are two spaces, there are two Dot 5's.
+This action places dot 5’s where the spaces previously were. If there
+are two spaces, there are two Dot 5’s.
 
 ##### Get Math Help
 
@@ -1312,11 +1363,13 @@ To make a linear equation:
 {{html
 
 <ol>
+
 <li value=3>
 
 Select the Insert button to put your text in BrailleBlaster.
 
 </li>
+
 <li>
 
 (Optional step) Choose Replace Current Math to replace a previous entry
@@ -1324,6 +1377,7 @@ of math that was made with your current entry. Select Previous Math or
 Next Math to navigate through the math elements in your document.
 
 </li>
+
 </ol>
 
 }}
@@ -1459,22 +1513,22 @@ review the settings to ensure the best translation.
 
 - Start Interval Type: Inserts a symbol at the start of your line
   segment. Your options are:
-  - Empty Circle:\
+  - Empty Circle:  
     ![start interval type; empty circle example](spatialmathstartintervalempty.PNG "start interval type; empty circle example")
-  - Full Circle:\
+  - Full Circle:  
     ![start interval type; full circle example](spatialmathstartintervalfull.PNG "start interval type; full circle example")
-  - None:\
+  - None:  
     ![start interval type; interval none example](spatialmathstartintervalnone.PNG "start interval type; interval none example")
 
 <!-- -->
 
 - End Interval Type: Creates a symbol at the end of your line segment.
   Your options are:
-  - Empty Circle:\
+  - Empty Circle:  
     ![end interval type; empty circle example](spatialmathendintervalempty.PNG "end interval type; empty circle example")
-  - Full Circle:\
+  - Full Circle:  
     ![end interval type; full circle example](spatialmathendintervalfull.PNG "end interval type; full circle example")
-  - None:\
+  - None:  
     ![end interval type; interval none example](spatialmathendintervalnone.PNG "end interval type; interval none example")
 
 ##### Create a Number Line
@@ -1620,11 +1674,13 @@ cursor.
 {{html
 
 <ol>
+
 <li value=3>
 
 Go to Insert \> Image Placeholder. This action will bring up a window.
 
 </li>
+
 <li>
 
 In the window, a textbox is shown with the label: Number of lines
@@ -1632,12 +1688,14 @@ In the window, a textbox is shown with the label: Number of lines
 be a number less than 25.
 
 </li>
+
 <li>
 
 Once you have typed the number you need, select Submit to add in the
 lines or Cancel to go back to the document without making any changes.
 
 </li>
+
 </ol>
 
 }}
@@ -1695,7 +1753,7 @@ and off. See \[\[#Toggle Views\|Toggle Views\]\] for details.
 
 #### Applying Styles
 
-BrailleBlaster's formatting is contextual, and the Styles conform to the
+BrailleBlaster’s formatting is contextual, and the Styles conform to the
 rules laid out in [Braille Formats
 2016](http://www.brailleauthority.org/formats/formats2016.html). How
 each style functions in BrailleBlaster is detailed in the \[\[#Appendix
@@ -1751,6 +1809,7 @@ this tool.
 {{html
 
 <ol>
+
 <li value=5>
 
 After selecting Unwrap Element, the text is formatted as Body Text, the
@@ -1758,6 +1817,7 @@ default style in BrailleBlaster, which presents text as indented
 paragraphs with margins of 3-1.
 
 </li>
+
 </ol>
 
 }}
@@ -1783,11 +1843,11 @@ add various style rules to the text.
 
 ##### Setting Your Own Margin
 
-There are times when you have text that doesn't conform to
-BrailleBlaster's existing style options. There are many oddities when
-formatting braille and they can't all be covered by a predetermined
+There are times when you have text that doesn’t conform to
+BrailleBlaster’s existing style options. There are many oddities when
+formatting braille and they can’t all be covered by a predetermined
 style. For these situations, you can use Set Cell Position, which allows
-you to set the indentation for the line of text at the cursor's
+you to set the indentation for the line of text at the cursor’s
 position.
 
 To set your own margin:
@@ -1808,7 +1868,7 @@ only applied to one line at a time.
 
 Hitting Enter moves the text down to the next line, but it treats it is
 as a new element, like a new paragraph in Body Text or a new item in a
-List. When you don't want a new element, but need text to stay together,
+List. When you don’t want a new element, but need text to stay together,
 you can insert a Line Break. This inserts a break at the location of the
 cursor, dropping all text following the cursor down to the next braille
 line.
@@ -1822,19 +1882,19 @@ To keep text on the same line:
     runover.
 
 **Note:** The text starts in the runover cell determined by the current
-element's style. For instance, if the style is Body Text (which has 3-1
+element’s style. For instance, if the style is Body Text (which has 3-1
 margins), inserting a line break starts the new line on cell 1.
 
 ##### Keeping Text on the Same Page
 
-Don't Split is the only style option that wraps elements of different
+Don’t Split is the only style option that wraps elements of different
 styles. It is used to keep the selected elements together on the same
 braille page.
 
 To keep text on the same page:
 
 1.  Highlight the elements that need to be kept together.
-2.  Go to Styles \> Options \> Don't Split and apply the style option.
+2.  Go to Styles \> Options \> Don’t Split and apply the style option.
 
 **Note:** If the selected elements do not fit on a single braille page,
 any text longer than one braille page continues on to the next braille
@@ -1914,7 +1974,7 @@ on within interpoint documents. This is useful when you have graphics or
 material that needs to appear on facing pages, such as tables or
 question and answer choices. When formatting decisions cause an element
 to move, the selected material continues to appear on the type of page
-selected. If the page side isn't significant, and you just need a blank
+selected. If the page side isn’t significant, and you just need a blank
 page added, see \[\[#Adding Blank Pages\|Adding Blank Pages\]\].
 
 To create facing pages:
@@ -1946,7 +2006,7 @@ To add a blank page:
 
 If you chose New Pages Before, the highlighted element will move to a
 new page. You can then press Ctrl+Enter before the element to add a
-blank page.\
+blank page.  
 If you chose New Pages After, the text after the highlighted element
 will move to a new page. You can then press Ctrl+Enter after the element
 to add a blank page.
@@ -2032,13 +2092,14 @@ To change a print page indicator:
 
 1.  In the Page Number Dialog window, go to Edit Page Number tab \>
     Print Page Indicator tab.
-2.  Find the "Change Previous Print Page Indicator from \[X\]" section.
+2.  Find the “Change Previous Print Page Indicator from \[X\]” section.
 
 ![page number dialog window; edit page number tab; print page indicator tab](pagenumberdialog.PNG "page number dialog window; edit page number tab; print page indicator tab")
 
 {{html
 
 <ol>
+
 <li value=3>
 
 Change the number in the textbox (which displays the current print page
@@ -2048,6 +2109,7 @@ that is a combination of two print page numbers separated by a hyphen.
 This changes the first page number and all continuation pages.
 
 </li>
+
 <li>
 
 If you have NOT inserted a hyphen into the Change Previous Print Page
@@ -2055,12 +2117,14 @@ Indicator textbox, you can select Ok to save your changes or Cancel to
 leave without saving and skip steps 5 and 6.
 
 </li>
+
 <li>
 
 If you HAVE inserted a hyphen into the Change Previous Print Page
 Indicator textbox, the Runover Page Numbers options become available.
 
 </li>
+
 </ol>
 
 }}
@@ -2077,6 +2141,7 @@ print page numbers found in [Braille Formats, 2016 Section
 {{html
 
 <ol>
+
 <li value=6>
 
 After you have selected the Runover Page Number option that is
@@ -2084,6 +2149,7 @@ appropriate for your document, select Ok to save your changes or Cancel
 to leave without saving.
 
 </li>
+
 </ol>
 
 }}
@@ -2094,13 +2160,14 @@ To change a print page number:
 
 1.  In the Page Number Dialog window, go to Edit Page Number tab \>
     Print Page Number tab.
-2.  Find the "Change Print Page Number from \[X\]" section.
+2.  Find the “Change Print Page Number from \[X\]” section.
 
 ![page number dialog window; edit page number tab; print page number tab](pagenumberdialogprintpage.PNG "page number dialog window; edit page number tab; print page number tab")
 
 {{html
 
 <ol>
+
 <li value=3>
 
 Enter the appropriate changes into one or both of the textbox fields.
@@ -2117,11 +2184,13 @@ Page Number: Only changes that instance of the print page number,
 without changing the surrounding page numbers.
 
 </li>
+
 <li>
 
 Select Ok to save your changes or Cancel to leave without saving.
 
 </li>
+
 </ol>
 
 }}
@@ -2132,24 +2201,27 @@ To change braille page numbers:
 
 1.  In the Page Number Dialog window, go to Edit Page Number tab \>
     Braille Page Number tab.
-2.  Find the "Change Braille Page Number from \[X\]" section.
+2.  Find the “Change Braille Page Number from \[X\]” section.
 
 ![page number dialog window; edit page number tab; braille page number tab](pagenumberdialogbraillepage.PNG "page number dialog window; edit page number tab; braille page number tab")
 
 {{html
 
 <ol>
+
 <li value=3>
 
 Enter the appropriate braille page number for the current page.
 
 </li>
+
 <li>
 
 Choose Yes for that page to have a \[\[#Setting a Running Head\|Running
 Head\]\], or No if not.
 
 </li>
+
 </ol>
 
 }}
@@ -2167,19 +2239,21 @@ To change the type of braille page number:
 {{html
 
 <ol>
+
 <li value=2>
 
 Select one of three options from the drop-down menu:
 
 Normal: The braille page number shows the ordinal number.
 
-T-page: The braille page number starts with the letter "t" for
+T-page: The braille page number starts with the letter “t” for
 transcriber-generated pages.
 
-P-page: The braille page number starts with the letter "p" for
+P-page: The braille page number starts with the letter “p” for
 preliminary pages.
 
 </li>
+
 </ol>
 
 }}
@@ -2191,11 +2265,13 @@ type is selected.
 {{html
 
 <ol>
+
 <li value=3>
 
 Select Ok to save your changes or Cancel to leave without saving.
 
 </li>
+
 </ol>
 
 }}
@@ -2235,11 +2311,13 @@ print page number, and the next page, d5, becomes print page c5.
 {{html
 
 <ol>
+
 <li value=3>
 
 Select Ok to save your changes or Cancel to leave without saving.
 
 </li>
+
 </ol>
 
 }}
@@ -2300,7 +2378,7 @@ Emphasis menu.
 - Script (Alt + Shift + S): Add Script indicators to a symbol, word, or
   passage that mimics handwriting in print. The selected text appears
   light pink in the print view.
-- Transcriber Note Symbols: Although Transcriber's Note (TN) indicators
+- Transcriber Note Symbols: Although Transcriber’s Note (TN) indicators
   are not a print typeform, they add a special emphasis for the braille
   reader. TN indicators are added at the beginning and end of the
   selected text. Adding this emphasis across three elements, for
@@ -2310,7 +2388,7 @@ Emphasis menu.
   print with no braille equivalent such as highlighting, colored font,
   or double underlining. Transcriber-Defined Typeforms allow this
   emphasis to be represented with a braille symbol that is defined on
-  the Transcriber's Notes Page of the document. These indicators and how
+  the Transcriber’s Notes Page of the document. These indicators and how
   to use them are described in Section 9.5 of the Rules of Unified
   English Braille.
   - Transcriber-Defined 1 (Shift + Alt + 1)
@@ -2399,16 +2477,16 @@ this tool is activated, you can type braille directly into the Print
 View by pressing combinations of the keyboard keys FDS and JKL to create
 the six dots of a braille cell.
 
-  Letter   Dot Number
-  -------- ------------
-  F        1
-  D        2
-  S        3
-  J        4
-  K        5
-  L        6
+| Letter | Dot Number |
+|--------|------------|
+| F      | 1          |
+| D      | 2          |
+| S      | 3          |
+| J      | 4          |
+| K      | 5          |
+| L      | 6          |
 
-**Note:** If you find this feature doesn't work for you, it is most
+**Note:** If you find this feature doesn’t work for you, it is most
 likely your keyboard. Not all keyboards allow more than one letter to be
 pressed at a time.
 
@@ -2425,7 +2503,7 @@ To use Six Key Mode:
 
 #### Changing the Text Translation
 
-Even after you've designated your translation settings, you can change
+Even after you’ve designated your translation settings, you can change
 how part of the text is translated, ranging from a word to multiple
 pages. Change Translation offers two translation options for a selection
 of text: Uncontracted and Direct.
@@ -2458,10 +2536,10 @@ for the program LibLouis. This ensures quick and easy recognition of
 undefined print characters. The most common corrections are for Unicode
 characters (i.e., Unicode: U + 25B6 for a black right-pointing
 triangle), proper nouns, and non-English words, though you may find a
-translation mistake on occasion.\
+translation mistake on occasion.  
 When you encounter an undefined Unicode character in the translation,
 the Unicode image appears in the Print View, while the Unicode name,
-enclosed in Transcriber's Notes, appears in the Braille View.
+enclosed in Transcriber’s Notes, appears in the Braille View.
 
 ![correct translation example showing print and braille views](correcttranslation.jpg "correct translation example showing print and braille views")
 
@@ -2482,11 +2560,13 @@ To make a braille translation correction:
 {{html
 
 <ol>
+
 <li value=3>
 
 Choose one of three options appropriate to the correction of the text:
 
 </li>
+
 </ol>
 
 }}
@@ -2500,23 +2580,27 @@ Correct Word: Corrects a proper noun or foreign word.
 {{html
 
 <ol>
+
 <li value=4>
 
 Select your entry method for typing the correct braille: Six Key or
 ASCII.
 
 </li>
+
 <li>
 
 Type the corrected braille into the Braille textbox.
 
 </li>
+
 <li>
 
 Select one of two options for saving your translation correction or
 Cancel to leave without making changes:
 
 </li>
+
 </ol>
 
 }}
@@ -2543,6 +2627,7 @@ To view past braille translation corrections:
 {{html
 
 <ol>
+
 <li value=2>
 
 Select the Edit Translation button to make edits to translations you
@@ -2551,12 +2636,14 @@ the Delete Entry button to delete translations that are no longer
 needed.
 
 </li>
+
 <li>
 
 Select Cancel to return to the Correct Braille Translation window
 without making any changes.
 
 </li>
+
 </ol>
 
 }}
@@ -2579,34 +2666,37 @@ To find text in your document:
 {{html
 
 <ol>
+
 <li value=3>
 
 (Optional step) Select one or both options to narrow down the search:
 
 </li>
+
 </ol>
 
 }}
 
 - Match Case: Only searches for the text as you type it in regard to
-  capitalization.\
-  **Example:** If you search for "THE" with Match Case checked,
+  capitalization.  
+  **Example:** If you search for “THE” with Match Case checked,
   BrailleBlaster only finds instances of the fully capitalized
-  characters "THE" and ignores any others, like "The" or "the."
+  characters “THE” and ignores any others, like “The” or “the.”
 
 <!-- -->
 
 - Whole word: Only searches for instances of the text that are preceded
   and followed by a space, rather than instances of the characters
-  within a longer word.\
-  **Example:** If you search for "the" with Whole word checked,
-  BrailleBlaster only finds instances of "the" where it stands alone as
-  a word, and ignores results like "theater," "them," "bathe," and so
+  within a longer word.  
+  **Example:** If you search for “the” with Whole word checked,
+  BrailleBlaster only finds instances of “the” where it stands alone as
+  a word, and ignores results like “theater,” “them,” “bathe,” and so
   on.
 
 {{html
 
 <ol>
+
 <li value=4>
 
 Select the Find button to search for an instance of the text. The text
@@ -2614,6 +2704,7 @@ is highlighted in the Print View of your document for further instances
 of the text.
 
 </li>
+
 <li>
 
 (Optional step) Continue using the Find button to cycle through the
@@ -2621,11 +2712,13 @@ document. You can also cycle through the document forwards or backwards
 by selecting one of those options.
 
 </li>
+
 <li>
 
 Select Close when finished.
 
 </li>
+
 </ol>
 
 }}
@@ -2643,42 +2736,46 @@ F).
 checkboxes.
 
 - Match Case: Only searches for the text as you type it in regard to
-  capitalization.\
+  capitalization.  
   (Optional step) Check the Match case checkbox to maintain the
-  capitalization of the original text.\
-  **Example:** If you enter "even" in the Find Text box and "odd" in the
-  Replace with box with Match case checked, "even" is replaced with
-  "odd," "Even" is replaced with "Odd," and "EVEN" with "ODD."\
+  capitalization of the original text.  
+  **Example:** If you enter “even” in the Find Text box and “odd” in the
+  Replace with box with Match case checked, “even” is replaced with
+  “odd,” “Even” is replaced with “Odd,” and “EVEN” with “ODD.”  
   **Note:** Match case only works with lowercase, all uppercase, and
   initial case but not with camel-capped words or oddly capped words
   (e.g., BrailleBlaster or BrAiLLeBlASTer).
 - Whole Word: Only searches for instances of the text that are preceded
   and followed by a space, rather than instances of the characters
-  within a longer word.\
-  **Example:** If you search for "the" with Whole Word checked,
-  BrailleBlaster only finds instances of "the" where it stands alone as
-  a word, and ignores results like "theater," "them," "bathe," and so
+  within a longer word.  
+  **Example:** If you search for “the” with Whole Word checked,
+  BrailleBlaster only finds instances of “the” where it stands alone as
+  a word, and ignores results like “theater,” “them,” “bathe,” and so
   on.
 
 {{html
 
 <ol>
+
 <li value=4>
 
 Type the replacement text in the Replace With textbox.
 
 </li>
+
 <li>
 
 Select the Find button to search for instances of the text.
 
 </li>
+
 <li>
 
 Select the Replace button to replace that instance of text in the Find
 box.
 
 </li>
+
 </ol>
 
 }}
@@ -2688,6 +2785,7 @@ box.
 {{html
 
 <ol>
+
 <li value=7>
 
 Pressing Replace again moves you to the next instance of the word in the
@@ -2696,11 +2794,13 @@ that way, OR you can select Replace All, changing ALL of the instances
 at once without clicking through each one.
 
 </li>
+
 <li>
 
 Select Close when you are finished.
 
 </li>
+
 </ol>
 
 }}
@@ -2729,18 +2829,19 @@ The three types of formatting that can be changed are:
 
 The three options have an Add button and Not radio buttons.
 
-- Add: Only finds the text you typed if it has the selected formatting.\
-  **Example:** If you add "Heading 1" to the Find box, your search only
-  finds the word "The" if it appears within a Heading 1 style and
+- Add: Only finds the text you typed if it has the selected
+  formatting.  
+  **Example:** If you add “Heading 1” to the Find box, your search only
+  finds the word “The” if it appears within a Heading 1 style and
   ignores all other instances.
 
 <!-- -->
 
 - Not Radio Buttons: The behavior of the Not button is a little more
   complicated. It finds all instances of the text unless it has the
-  selected formatting.\
-  **Example:** If you remove "Heading 1" to the Find box, it appears as
-  "Not Heading 1," and search for all instances of "The" that are not
+  selected formatting.  
+  **Example:** If you remove “Heading 1” to the Find box, it appears as
+  “Not Heading 1,” and search for all instances of “The” that are not
   within Heading 1 styles.
 
 ![formatting window with Heading 1 highlighted](findheading1.jpg "formatting window with Heading 1 highlighted")
@@ -2750,12 +2851,14 @@ The three options have an Add button and Not radio buttons.
 {{html
 
 <ol>
+
 <li value=3>
 
 Styles, Containers, and Text Attributes each have lists of options.
 Select whatever Formatting is appropriate.
 
 </li>
+
 <li>
 
 Click Add to add Styles, Containers or Text Attributes to the Find box.
@@ -2767,7 +2870,9 @@ decide you do not want an item included in your Formatting, select Reset
 to clear the Find box.
 
 </p>
+
 </li>
+
 </ol>
 
 }}
@@ -2779,6 +2884,7 @@ in the text box.
 {{html
 
 <ol>
+
 <li value=5>
 
 Click Close Formatting to return to the Find and Replace window.
@@ -2789,12 +2895,15 @@ The Formatting you have selected now appears in a text box under Find
 Text.
 
 </p>
+
 </li>
+
 <li>
 
 When finished, click Close to exit the Find and Replace window.
 
 </li>
+
 </ol>
 
 }}
@@ -2806,7 +2915,7 @@ To replace formatted text:
 \# Go to Edit \> Find and Replace OR use the keyboard shortcut (Ctrl +
 F).
 
-\# Click Formatting to open the Formatting window.\
+\# Click Formatting to open the Formatting window.  
 The two options of formatting that can be changed are:
 
 - Styles: Focuses on Styles of text and margins.
@@ -2816,9 +2925,9 @@ Both options have the Add button. Only Text Attributes has the Remove
 Radio button.
 
 - Add: Adds the selected format to any instances of the specified text
-  in the Find and Replace window.\
-  **Example:** If you add "Heading 1" to the Replace box, your search
-  replaces the formatting of every instance of "The" to be within the
+  in the Find and Replace window.  
+  **Example:** If you add “Heading 1” to the Replace box, your search
+  replaces the formatting of every instance of “The” to be within the
   Heading 1 style.
 
 <!-- -->
@@ -2830,12 +2939,14 @@ Radio button.
 {{html
 
 <ol>
+
 <li value=3>
 
 Styles and Text Attributes have lists of options. Select whatever
 Formatting is appropriate.
 
 </li>
+
 <li>
 
 Click on the Add button to add the Styles or Text Attributes to the
@@ -2848,6 +2959,7 @@ decide you do not want an item included in your Formatting, select Reset
 to clear the Replace box.
 
 </p>
+
 <p>
 
 Note: Only one style can be added or removed at a time. Clicking a
@@ -2855,7 +2967,9 @@ different style and then the Add button simply replaces the style
 selected in the bottom text box.
 
 </p>
+
 </li>
+
 <li>
 
 Select Done to return to the Find and Replace window.
@@ -2866,12 +2980,15 @@ The Formatting you have selected now appears in a text box under Replace
 with.
 
 </p>
+
 </li>
+
 <li>
 
 When finished, click Close to exit the Find/Replace window.
 
 </li>
+
 </ol>
 
 }}
@@ -2904,7 +3021,7 @@ Since BrailleBlaster is intended to work hand in hand with XML and NIMAS
 files, there are some tools in BrailleBlaster that are designed to work
 with this file type only.
 
-#### Using Publisher's Production Notes
+#### Using Publisher’s Production Notes
 
 The Production Note Manager is a tool that was designed to manage
 production notes. Production notes are added by the publisher and are
@@ -2917,7 +3034,7 @@ to Keep, Hide, or Remove.
 To keep, hide, or remove production notes:
 
 1.  Go to Tools \> Production Note Manager.
-2.  A window opens listing the publisher's notes. Choose one of three
+2.  A window opens listing the publisher’s notes. Choose one of three
     options:
 
 ![production note manager window](productionnotemanager.PNG "production note manager window")
@@ -2941,11 +3058,13 @@ All.
 {{html
 
 <ol>
+
 <li value=3>
 
 Click Apply to save your choice OR Cancel to leave the window.
 
 </li>
+
 </ol>
 
 }}
@@ -2974,7 +3093,7 @@ Interchange but it is simplest to think of it as the print symbols that
 can be created by a keyboard.
 
 **Book Tree:** The Book Tree is similar to a table of contents, showing
-the hierarchy of the book's material. Although it does not show you the
+the hierarchy of the book’s material. Although it does not show you the
 page numbers, selecting a section takes you to that page in the file.
 NIMAS files can be navigated using the Book Tree, which shows the
 Section tags and headings applied by the publisher.
@@ -2983,7 +3102,7 @@ Section tags and headings applied by the publisher.
 applied to a piece of text. They are visible in the bottom section of
 the toolbar and show any containers and section tags. Clicking on one of
 the levels shown within the breadcrumbs highlights the section of text
-it applies to in the print view.\
+it applies to in the print view.  
 **Note:** When using a screen reader while breadcrumbs is active, any
 change to the breadcrumbs is read. You can turn breadcrumbs off by going
 to View \> Toggle Views \> Breadcrumbs.
@@ -2991,7 +3110,7 @@ to View \> Toggle Views \> Breadcrumbs.
 **Close** (Ctrl + W): Closes the current document, but BrailleBlaster
 (and any other documents) remains open. Clicking the X in the tab above
 the print view where the file name appears (or New Document if you
-haven't saved it with a new name yet) has the same result---closing only
+haven’t saved it with a new name yet) has the same result—closing only
 that document.
 
 **Container:** BrailleBlaster automatically views some styles as being
@@ -3050,11 +3169,11 @@ found:
 
 **Styles:** Styles impact the margins of the braille and the use of
 blank lines in your document. BrailleBlaster uses many different
-"styles" to convey to the braille reader how the print is formatted. The
+“styles” to convey to the braille reader how the print is formatted. The
 default layout of BrailleBlaster shows the style view on the left, so
 that the name of the style is in line with the corresponding print to
 the right. The complete detailed list of styles are found in the
-\[\[#Appendix A: Formatting Styles\|Appendix A: Formatting Styles\]\].\
+\[\[#Appendix A: Formatting Styles\|Appendix A: Formatting Styles\]\].  
 **Note**: An asterisk next to a style name in the Style view represents
 an image in that element. More details are in the \[\[#Describing Images
 with the Image Describer\|Describing Images with the Image Describer\]\]
@@ -3063,7 +3182,7 @@ section.
 **TOC Builder:** The tool used to build the Table of Contents (TOC).
 Complete instructions on using this feature are available in
 \[\[#Building the Table of Contents (TOC)\|Building the Table of
-Contents\]\].\
+Contents\]\].  
 Toggle: Turns something on or off. For example, clicking View \> Toggle
 Views \> Breadcrumbs turns off the Breadcrumbs, removing them from the
 toolbar. Clicking View \> Toggle Views \> Breadcrumbs a second time
@@ -3110,7 +3229,7 @@ to report other potential BrailleBlaster errors. View Log provides the
 ability to view or save a software error log in the event that
 BrailleBlaster encounters an unexpected problem. This log can be
 provided to the technical support staff at APH to assist them in
-troubleshooting.\
+troubleshooting.  
 Reset BB is included with early releases because of potential conflicts
 that can occur when updating the program. If documents do not open after
 updating, but the previous version of BrailleBlaster worked fine, it is
@@ -3150,14 +3269,14 @@ These styles include some of the simple styles common to transcription.
 
 #### Basic Styles Specification Table
 
-  Style Name               Description                                                                    Margins    Blank Line
-  ------------------------ ------------------------------------------------------------------------------ ---------- ------------------
-  Blocked Text             Left justified paragraph                                                       1-1        Before
-  Body Text                Indented paragraph (default)                                                   3-1        None
-  Centered Text            Text centered on the page                                                      Variable   None
-  Displayed 3-5            Multiple displayed sentences following blocked text (1-1) or body text (3-1)   3-5        Before and After
-  Displayed Blocked Text   Displayed blocked paragraph following blocked text (1-1)                       3-3        Before and After
-  Displayed Body Text      Displayed indented paragraph following body text (3-1)                         5-3        Before and After
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| Blocked Text | Left justified paragraph | 1-1 | Before |
+| Body Text | Indented paragraph (default) | 3-1 | None |
+| Centered Text | Text centered on the page | Variable | None |
+| Displayed 3-5 | Multiple displayed sentences following blocked text (1-1) or body text (3-1) | 3-5 | Before and After |
+| Displayed Blocked Text | Displayed blocked paragraph following blocked text (1-1) | 3-3 | Before and After |
+| Displayed Body Text | Displayed indented paragraph following body text (3-1) | 5-3 | Before and After |
 
 ### Numeric Styles
 
@@ -3170,13 +3289,13 @@ ranging from 1 to 11.
 
 #### Numeric Styles Specification Table
 
-  Style Name   Description                                       Margins   Blank Line
-  ------------ ------------------------------------------------- --------- ------------
-  1-1          Text begins in cell 1 with runovers in cell 1     1-1       None
-  1-3          Text begins in cell 1 with runovers in cell 3     1-3       None
-  ...          ...                                               ...       ...
-  11-9         Text begins in cell 11 with runovers in cell 9    11-9      None
-  11-11        Text begins in cell 11 with runovers in cell 11   11-11     None
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| 1-1 | Text begins in cell 1 with runovers in cell 1 | 1-1 | None |
+| 1-3 | Text begins in cell 1 with runovers in cell 3 | 1-3 | None |
+| … | … | … | … |
+| 11-9 | Text begins in cell 11 with runovers in cell 9 | 11-9 | None |
+| 11-11 | Text begins in cell 11 with runovers in cell 11 | 11-11 | None |
 
 ### Heading Styles
 
@@ -3190,11 +3309,11 @@ Head\|Setting a Running Head\]\].
 
 #### Heading Styles Specification Table
 
-  Style Name   Description                                     Margins    Blank Line
-  ------------ ----------------------------------------------- ---------- -------------------------------------------------
-  Heading 1    Main heading (Centered Heading - First Level)   Variable   Before & After
-  Heading 2    Subheading (Cell 5 Heading - Second Level)      5-5        Before
-  Heading 3    Subheading (Cell 7 Heading - Third Level)       7-7        Before unless immediately following a Heading 2
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| Heading 1 | Main heading (Centered Heading - First Level) | Variable | Before & After |
+| Heading 2 | Subheading (Cell 5 Heading - Second Level) | 5-5 | Before |
+| Heading 3 | Subheading (Cell 7 Heading - Third Level) | 7-7 | Before unless immediately following a Heading 2 |
 
 ### List Styles
 
@@ -3210,14 +3329,14 @@ after the last entry.
 
 #### List Styles Specification Table
 
-  Style Name   Description                            Margins   Blank Line
-  ------------ -------------------------------------- --------- -----------------------------------------
-  List 1       List with 1 level                      1-3       Before & After all 1 level list entries
-  List 2a      First level in a list with 2 levels    1-5       Before & After all 2 level list entries
-  List 2b      Second level in a list with 2 levels   3-5       Before & After all 2 level list entries
-  ...          ...                                    ...       ...
-  List 5d      Fourth level in a list with 5 levels   7-11      Before & After all 5 level list entries
-  List 5e      Fifth level in a list with 5 levels    9-11      Before & After all 5 level list entries
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| List 1 | List with 1 level | 1-3 | Before & After all 1 level list entries |
+| List 2a | First level in a list with 2 levels | 1-5 | Before & After all 2 level list entries |
+| List 2b | Second level in a list with 2 levels | 3-5 | Before & After all 2 level list entries |
+| … | … | … | … |
+| List 5d | Fourth level in a list with 5 levels | 7-11 | Before & After all 5 level list entries |
+| List 5e | Fifth level in a list with 5 levels | 9-11 | Before & After all 5 level list entries |
 
 ### Exercise Material Styles
 
@@ -3235,16 +3354,16 @@ information.
 
 #### Exercise Material Styles Specification Table
 
-  Style Name       Description                                 Margins   Blank Line
-  ---------------- ------------------------------------------- --------- ------------
-  Directions       First paragraph of unnumbered directions    5-5       None
-  Directions 7-5   Second paragraph of unnumbered directions   7-5       None
-  Exercise 1       Exercise with 1 level                       1-3       None
-  Exercise 2a      First level in an exercise with 2 levels    1-5       None
-  Exercise 2b      Second level in an exercise with 2 levels   3-5       None
-  ...              ...                                         ...       ...
-  Exercise 5d      Fourth level in an exercise with 5 levels   7-11      None
-  Exercise 5e      Fifth level in an exercise with 5 levels    9-11      None
+| Style Name     | Description                               | Margins | Blank Line |
+|----------------|-------------------------------------------|---------|------------|
+| Directions     | First paragraph of unnumbered directions  | 5-5     | None       |
+| Directions 7-5 | Second paragraph of unnumbered directions | 7-5     | None       |
+| Exercise 1     | Exercise with 1 level                     | 1-3     | None       |
+| Exercise 2a    | First level in an exercise with 2 levels  | 1-5     | None       |
+| Exercise 2b    | Second level in an exercise with 2 levels | 3-5     | None       |
+| …              | …                                         | …       | …          |
+| Exercise 5d    | Fourth level in an exercise with 5 levels | 7-11    | None       |
+| Exercise 5e    | Fifth level in an exercise with 5 levels  | 9-11    | None       |
 
 ### Poetry Styles
 
@@ -3259,21 +3378,21 @@ Numbering\|Line Numbering\]\].
 
 #### Poetry Styles Specification Table
 
-  Style Name   Description                            Margins   Blank Line
-  ------------ -------------------------------------- --------- ------------
-  Poetry 1     Poem with 1 level                      1-3       None
-  Poetry 2a    First level in a poem with 2 levels    1-5       None
-  Poetry 2b    Second level in a poem with 2 levels   3-5       None
-  ...          ...                                    ...       ...
-  Poetry 5d    Fourth level in a poem with 5 levels   7-11      None
-  Poetry 5e    Fifth level in a poem with 5 levels    9-11      None
+| Style Name | Description                          | Margins | Blank Line |
+|------------|--------------------------------------|---------|------------|
+| Poetry 1   | Poem with 1 level                    | 1-3     | None       |
+| Poetry 2a  | First level in a poem with 2 levels  | 1-5     | None       |
+| Poetry 2b  | Second level in a poem with 2 levels | 3-5     | None       |
+| …          | …                                    | …       | …          |
+| Poetry 5d  | Fourth level in a poem with 5 levels | 7-11    | None       |
+| Poetry 5e  | Fifth level in a poem with 5 levels  | 9-11    | None       |
 
 ### Caption Styles
 
-The style caption does not include transcriber's notes indicators. These
+The style caption does not include transcriber’s notes indicators. These
 need to be added to captions, when appropriate.
 
-Transcriber's Notes are automatically applied to all descriptions. For
+Transcriber’s Notes are automatically applied to all descriptions. For
 this reason, the entire item must be highlighted before applying style
 so that TN symbols are applied in the correct location.
 
@@ -3281,10 +3400,10 @@ so that TN symbols are applied in the correct location.
 
 #### Caption Styles Specification Table
 
-  Style Name    Description                                                    Margins   Blank Line
-  ------------- -------------------------------------------------------------- --------- ------------
-  Caption       Print provided caption for illustrative materials              7-5       None
-  Description   Transcriber generated description for illustrative materials   7-5       None
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| Caption | Print provided caption for illustrative materials | 7-5 | None |
+| Description | Transcriber generated description for illustrative materials | 7-5 | None |
 
 ### Glossary Styles
 
@@ -3301,14 +3420,14 @@ Alphabetic References\]\] for more information.
 
 #### Glossary Styles Specification Table
 
-  Style Name    Description                                Margins   Blank Line
-  ------------- ------------------------------------------ --------- ------------
-  Glossary 1    Glossary with 1 level                      1-3       None
-  Glossary 2a   First level in a glossary with 2 levels    1-5       None
-  Glossary 2b   Second level in a glossary with 2 levels   3-5       None
-  ...           ...                                        ...       ...
-  Glossary 5d   Fourth level in a glossary with 5 levels   7-11      None
-  Glossary 5e   Fifth level in a glossary with 5 levels    9-11      None
+| Style Name  | Description                              | Margins | Blank Line |
+|-------------|------------------------------------------|---------|------------|
+| Glossary 1  | Glossary with 1 level                    | 1-3     | None       |
+| Glossary 2a | First level in a glossary with 2 levels  | 1-5     | None       |
+| Glossary 2b | Second level in a glossary with 2 levels | 3-5     | None       |
+| …           | …                                        | …       | …          |
+| Glossary 5d | Fourth level in a glossary with 5 levels | 7-11    | None       |
+| Glossary 5e | Fifth level in a glossary with 5 levels  | 9-11    | None       |
 
 ### Index Styles
 
@@ -3323,14 +3442,14 @@ References\]\] for more information.
 
 #### Index Styles Specification Table
 
-  Style Name   Description                              Margins   Blank Line
-  ------------ ---------------------------------------- --------- ------------
-  Index 1      Index with 1 level                       1-3       None
-  Index 2a     First level in an index with 2 levels    1-5       None
-  Index 2b     Second level in an index with 2 levels   3-5       None
-  ...          ...                                      ...       ...
-  Index 5d     Fourth level in an index with 5 levels   7-11      None
-  Index 5e     Fifth level in an index with 5 levels    9-11      None
+| Style Name | Description                            | Margins | Blank Line |
+|------------|----------------------------------------|---------|------------|
+| Index 1    | Index with 1 level                     | 1-3     | None       |
+| Index 2a   | First level in an index with 2 levels  | 1-5     | None       |
+| Index 2b   | Second level in an index with 2 levels | 3-5     | None       |
+| …          | …                                      | …       | …          |
+| Index 5d   | Fourth level in an index with 5 levels | 7-11    | None       |
+| Index 5e   | Fifth level in an index with 5 levels  | 9-11    | None       |
 
 ### Note Styles
 
@@ -3358,7 +3477,7 @@ Incidental notes, with and without a heading, can also be used for cross
 references as they have the same margins (BF 2016 Section 9.6).
 
 **Incidental Note without a Heading** can also be used for footnotes to
-a listed, linear, or stairstep table, and for speaker's notes in a slide
+a listed, linear, or stairstep table, and for speaker’s notes in a slide
 presentation. If the Incidental note has a heading, it needs to be
 designated separately as a cell-7 heading.
 
@@ -3366,11 +3485,11 @@ designated separately as a cell-7 heading.
 
 #### Note Styles Specification Table
 
-  Style Name                          Description                                                                              Margins   Blank Line
-  ----------------------------------- ---------------------------------------------------------------------------------------- --------- ----------------
-  Incidental Note with Heading        Incidental note or cross-reference with a heading                                        5-5       Before & After
-  Incidental Note without a Heading   Incidental note or cross-reference without a heading                                     7-5       Before & After
-  Footnote                            Footnote that appears at the bottom of the print page, footnote to a table, or endnote   1-3       None
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| Incidental Note with Heading | Incidental note or cross-reference with a heading | 5-5 | Before & After |
+| Incidental Note without a Heading | Incidental note or cross-reference without a heading | 7-5 | Before & After |
+| Footnote | Footnote that appears at the bottom of the print page, footnote to a table, or endnote | 1-3 | None |
 
 ### Play Styles
 
@@ -3382,129 +3501,152 @@ while Verse appears like poetry in print (BF 2016 Section 13).
 
 #### Play Styles Specification Table
 
-  Style Name             Description                                                                                                    Margins   Blank Line
-  ---------------------- -------------------------------------------------------------------------------------------------------------- --------- ------------
-  Prose Play 1-3         The first paragraph by a speaker in a prose play                                                               1-3       None
-  Prose Play 5-3         Additional paragraphs immediately following the first by the same speaker in a prose play                      5-3       None
-  Stage Directions 7-7   The first paragraph of stage directions in a prose or verse play                                               7-7       None
-  Stage Directions 9-7   Additional paragraphs immediately following the first paragraph of stage directions in a prose or verse play   7-9       None
-  Verse Play 1-5         The first line by a speaker in a verse play                                                                    1-5       None
-  Verse Play 3-5         Additional lines immediately following the first by the same speaker in a verse play                           3-5       None
+| Style Name | Description | Margins | Blank Line |
+|----|----|----|----|
+| Prose Play 1-3 | The first paragraph by a speaker in a prose play | 1-3 | None |
+| Prose Play 5-3 | Additional paragraphs immediately following the first by the same speaker in a prose play | 5-3 | None |
+| Stage Directions 7-7 | The first paragraph of stage directions in a prose or verse play | 7-7 | None |
+| Stage Directions 9-7 | Additional paragraphs immediately following the first paragraph of stage directions in a prose or verse play | 7-9 | None |
+| Verse Play 1-5 | The first line by a speaker in a verse play | 1-5 | None |
+| Verse Play 3-5 | Additional lines immediately following the first by the same speaker in a verse play | 3-5 | None |
 
 ### Miscellaneous Styles
 
 This selection of style elements include those that do not fit into
 other categories.
 
-It includes the Transcriber's Notes styles and Box styles. Note that
+It includes the Transcriber’s Notes styles and Box styles. Note that
 these styles are special and require the user to select the entire set
-of text to which they will be applied first. Since the transcriber's
-note style adds the transcriber's note symbols and the box styles add
+of text to which they will be applied first. Since the transcriber’s
+note style adds the transcriber’s note symbols and the box styles add
 box lines, the program must know where the user wants those to appear
 and it learns this through the selection made by the user.
 
 #### Miscellaneous Styles Specification Table
 
-  Style Name   Description   Margins   Blank Line
-  ------------ ------------- --------- ------------
+| Style Name | Description | Margins | Blank Line |
+|------------|-------------|---------|------------|
 
-  -------------------- ------------------------------------------------------------------------------ ----- ------
-  Transcriber's Note   Each paragraph of selected text is enclosed in transcriber's note indicators   7-5   None
-  -------------------- ------------------------------------------------------------------------------ ----- ------
+|  |  |  |  |
+|----|----|----|----|
+| Transcriber’s Note | Each paragraph of selected text is enclosed in transcriber’s note indicators | 7-5 | None |
 
 #### Boxes Options Specification Table
 
 Within the Miscellaneous Styles are several options for Boxes.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Style Name       Description                                                                                                      Blank Line
-  ---------------- ---------------------------------------------------------------------------------------------------------------- -----------------------------------------------------
-  Box              Selected text appears within a top and bottom box line                                                           Before the top box line & After the bottom box line
-
-  Color Box        Selected text appears within a top and bottom box line, and the color you type in the pop-up appears within\     Before the top box line & After the bottom box line
-                   transcriber's notes on the top box line                                                                          
-
-  Full Box         Selected text appears within a top and bottom full box line\                                                     Before the top box line & After the bottom box line
-                   (the exterior borders for a set of nested boxes)                                                                 
-
-  Full Color Box   Selected text appears within a top and bottom full box line (the exterior borders for a set of nested boxes),\   Before the top box line & After the bottom box line
-                   and the color you type in the pop up window appears within transcriber's notes on the top full box line          
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<table>
+<thead>
+<tr>
+<th>Style Name</th>
+<th>Description</th>
+<th>Blank Line</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Box</td>
+<td>Selected text appears within a top and bottom box line</td>
+<td>Before the top box line &amp; After the bottom box line</td>
+</tr>
+<tr>
+<td>Color Box</td>
+<td>Selected text appears within a top and bottom box line, and the
+color you type in the pop-up appears within<br />
+transcriber’s notes on the top box line</td>
+<td>Before the top box line &amp; After the bottom box line</td>
+</tr>
+<tr>
+<td>Full Box</td>
+<td>Selected text appears within a top and bottom full box line<br />
+(the exterior borders for a set of nested boxes)</td>
+<td>Before the top box line &amp; After the bottom box line</td>
+</tr>
+<tr>
+<td>Full Color Box</td>
+<td>Selected text appears within a top and bottom full box line (the
+exterior borders for a set of nested boxes),<br />
+and the color you type in the pop up window appears within transcriber’s
+notes on the top full box line</td>
+<td>Before the top box line &amp; After the bottom box line</td>
+</tr>
+</tbody>
+</table>
 
 ## Appendix B: Shortcut Key Combinations
 
-  Key Combination     Description
-  ------------------- -----------------------------------------------------------------------------------------------------
-  FILE OPERATIONS     
-  CTRL + N            Create a new document
-  CTRL + O            Open a document
-  CTRL + W            Close a document
-  ALT + F4            Quit BrailleBlaster
-  CTRL + S            Save the document
-  CTRL+SHIFT+S        Save the document in a custom location
-  CTRL + P            Print a document
-  CTRL + E            Emboss a document
-  ALT + HOME          Open the Braille Preview
-  SHIFT + F10         Open the context menu (same action as when you right click)
-  CTRL + +            Increase font size 1 point
-  CTRL + -            Decrease font size 1 point
-  EDITING             
-  CTRL + Z            Undo the last action
-  CTRL + Y            Redo the last action
-  CTRL + X            Cut the selected text
-  CTRL + C            Copy the selected text
-  CTRL + V            Paste copied text
-  CTRL + F            Open the find/replace pane
-  F3                  Repeat the last search
-  SHIFT + ENTER       Insert Line Break
-  CTRL + ENTER        Insert Page Break
-  CTRL + 5            Convert text to Print Page Number
-  F7                  Spell check
-  CTRL + SPACE        Insert non-breaking space (represented as a white rectangle with a black outline in the print view)
-  CTRL + R            Repeat last style applied
-  CTRL + T            Correct Braille translation
-  ALT + X             Six-Key Mode
-  CTRL + M            Math Translation Toggle
-  CTRL + D            Direct Translation
-  CTRL + SHIFT + T    Uncontracted Translation
-  CTRL + F2           Wrap Prose
-  CTRL + SHIFT + F2   Edit Line Number
-  NAVIGATION          
-  ALT + P             Toggle Print View
-  CTRL + G            Open the page selection options
-  CTRL + HOME         Go to the first page of the current document
-  CTRL + END          Go to the last page of the current document
-  ALT + END           Open the Book Tree
-  CTRL + Down         Go to the Next Element
-  CTRL + Up           Go to the Previous Element
-  Page Up             Next Page
-  Page Down           Previous Page
-  TYPEFORMS           
-  CTRL + B            Bold
-  CTRL + I            Italic
-  CTRL + U            Underline
-  ALT + SHIFT + S     Script
-  SHIFT + ALT + 1     Transcriber-Defined Typeform 1
-  SHIFT + ALT + 2     Transcriber-Defined Typeform 2
-  SHIFT + ALT + 3     Transcriber-Defined Typeform 3
-  SHIFT + ALT + 4     Transcriber-Defined Typeform 4
-  SHIFT + ALT + 5     Transcriber-Defined Typeform 5
-  LOADOUTS            
-  CTRL + SHIFT + M    Set Miscellaneous style loadout
-  CTRL + SHIFT + B    Set Basic style loadout
-  CTRL + SHIFT + C    Set Caption style loadout
-  CTRL + SHIFT + H    Set Heading style loadout
-  CTRL + SHIFT + L    Set Lists style loadout
-  CTRL + SHIFT + P    Set Poetry style loadout
-  CTRL + SHIFT + A    Set Plays style loadout
-  CTRL + SHIFT + G    Set Glossary style loadout
-  CTRL + SHIFT + E    Set Exercise Material style loadout
-  CTRL + SHIFT + I    Set Index style loadout
-  CTRL + SHIFT + U    Set Numeric style loadout
-  CTRL + SHIFT + N    Set Notes style loadout
-  ALT + NUMBER 1-8    Apply the style level corresponding to that number for the current loadout
-  MISCELLANEOUS       
-  F1                  Open Braille Blaster User Guide
+| Key Combination | Description |
+|----|----|
+| FILE OPERATIONS |  |
+| CTRL + N | Create a new document |
+| CTRL + O | Open a document |
+| CTRL + W | Close a document |
+| ALT + F4 | Quit BrailleBlaster |
+| CTRL + S | Save the document |
+| CTRL+SHIFT+S | Save the document in a custom location |
+| CTRL + P | Print a document |
+| CTRL + E | Emboss a document |
+| ALT + HOME | Open the Braille Preview |
+| SHIFT + F10 | Open the context menu (same action as when you right click) |
+| CTRL + + | Increase font size 1 point |
+| CTRL + - | Decrease font size 1 point |
+| EDITING |  |
+| CTRL + Z | Undo the last action |
+| CTRL + Y | Redo the last action |
+| CTRL + X | Cut the selected text |
+| CTRL + C | Copy the selected text |
+| CTRL + V | Paste copied text |
+| CTRL + F | Open the find/replace pane |
+| F3 | Repeat the last search |
+| SHIFT + ENTER | Insert Line Break |
+| CTRL + ENTER | Insert Page Break |
+| CTRL + 5 | Convert text to Print Page Number |
+| F7 | Spell check |
+| CTRL + SPACE | Insert non-breaking space (represented as a white rectangle with a black outline in the print view) |
+| CTRL + R | Repeat last style applied |
+| CTRL + T | Correct Braille translation |
+| ALT + X | Six-Key Mode |
+| CTRL + M | Math Translation Toggle |
+| CTRL + D | Direct Translation |
+| CTRL + SHIFT + T | Uncontracted Translation |
+| CTRL + F2 | Wrap Prose |
+| CTRL + SHIFT + F2 | Edit Line Number |
+| NAVIGATION |  |
+| ALT + P | Toggle Print View |
+| CTRL + G | Open the page selection options |
+| CTRL + HOME | Go to the first page of the current document |
+| CTRL + END | Go to the last page of the current document |
+| ALT + END | Open the Book Tree |
+| CTRL + Down | Go to the Next Element |
+| CTRL + Up | Go to the Previous Element |
+| Page Up | Next Page |
+| Page Down | Previous Page |
+| TYPEFORMS |  |
+| CTRL + B | Bold |
+| CTRL + I | Italic |
+| CTRL + U | Underline |
+| ALT + SHIFT + S | Script |
+| SHIFT + ALT + 1 | Transcriber-Defined Typeform 1 |
+| SHIFT + ALT + 2 | Transcriber-Defined Typeform 2 |
+| SHIFT + ALT + 3 | Transcriber-Defined Typeform 3 |
+| SHIFT + ALT + 4 | Transcriber-Defined Typeform 4 |
+| SHIFT + ALT + 5 | Transcriber-Defined Typeform 5 |
+| LOADOUTS |  |
+| CTRL + SHIFT + M | Set Miscellaneous style loadout |
+| CTRL + SHIFT + B | Set Basic style loadout |
+| CTRL + SHIFT + C | Set Caption style loadout |
+| CTRL + SHIFT + H | Set Heading style loadout |
+| CTRL + SHIFT + L | Set Lists style loadout |
+| CTRL + SHIFT + P | Set Poetry style loadout |
+| CTRL + SHIFT + A | Set Plays style loadout |
+| CTRL + SHIFT + G | Set Glossary style loadout |
+| CTRL + SHIFT + E | Set Exercise Material style loadout |
+| CTRL + SHIFT + I | Set Index style loadout |
+| CTRL + SHIFT + U | Set Numeric style loadout |
+| CTRL + SHIFT + N | Set Notes style loadout |
+| ALT + NUMBER 1-8 | Apply the style level corresponding to that number for the current loadout |
+| MISCELLANEOUS |  |
+| F1 | Open Braille Blaster User Guide |
 
 ## Appendix C: Troubleshooting Embosser Issues
 
@@ -3525,21 +3667,21 @@ If your embosser model is not listed in BrailleBlaster, or embossing
 does not work correctly when you select your specific embosser model,
 then try the generic text embossing support. Go to Settings \> Embosser
 settings, select your embosser configuration and press the edit button.
-In your embosser configuration in BrailleBlaster select "Generic" for
-the manufacturer and "Text only" for model.
+In your embosser configuration in BrailleBlaster select “Generic” for
+the manufacturer and “Text only” for model.
 
 When changing to generic text embosser support, it is important you
-correctly configure your embosser's internal settings for the paper size
+correctly configure your embosser’s internal settings for the paper size
 and margins for the document you want to emboss. This will be done by
-using software provided by your embosser's manufacturer or by using the
+using software provided by your embosser’s manufacturer or by using the
 buttons on the embosser itself. For details on how to alter your
-embosser's internal settings, please refer to the user guide for your
+embosser’s internal settings, please refer to the user guide for your
 embosser.
 
 ### Tweak Advanced Embosser Options
 
 If generic text embosser support has not resolved your embossing issue,
-then it is possible to adjust how generic text embossing support works\
+then it is possible to adjust how generic text embossing support works  
 by altering the advanced embosser options. The values to be used depends
 upon the embosser being used, below is some information about the
 different options and some recommended values for some embosser models.
@@ -3551,7 +3693,7 @@ different options and some recommended values for some embosser models.
   true, then your embosser should expect the lines to be longer than the
   Braille and the number of lines per page to be greater to account for
   the margins. It is recommended to set this to false and configure
-  margins in your embosser's internal settings.
+  margins in your embosser’s internal settings.
 - Pad page: When set to true, for pages which do not have all lines used
   by Braille, BrailleBlaster will insert new line characters for each
   empty line at the end of the page. This option is most useful for
@@ -3562,11 +3704,10 @@ different options and some recommended values for some embosser models.
   feed sequence at the end of a full page. For most embossers this
   should be set to false.
 - End of line: The byte sequence for the end of the line. For most
-  embossers set this to \\r\\n but for some embossers \\n may be
-  required. See the below list of embossers for embosser specific
-  recommendations.
+  embossers set this to \r\n but for some embossers \n may be required.
+  See the below list of embossers for embosser specific recommendations.
 - End of page: The byte sequence for the end of a page. For many
-  embossers this should be set to \\f however some models may need a
+  embossers this should be set to \f however some models may need a
   different value, see the below embosser specific recommendations.
 - Header: A byte sequence which will be sent to the embosser before the
   Braille. This may be useful if your embosser needs a sequence of bytes
@@ -3580,35 +3721,35 @@ different options and some recommended values for some embosser models.
 
 ##### Enabling Technologies
 
-  Model               End of line   End of page   Footer
-  ------------------- ------------- ------------- --------
-  Phoenix Gold        \\r\\n        \\r\\n\\f     \\x1a
-  Phoenix silver      \\r\\n        \\\\r\\n\\f   \\x1a
-  Cyclone             \\r\\n        \\r\\n\\f     \\x1a
-  Trident             \\r\\n        \\r\\n\\f     \\x1a
-  Book Maker          \\r\\n        \\r\\n\\f     
-  Braille Express     \\r\\n        \\r\\n\\f     
-  Thomas              \\r\\n        \\r\\n\\f     
-  Thomas Pro          \\r\\n        \\r\\n\\f     
-  ET                  \\r\\n        \\r\\n\\f     
-  Juliet Pro60        \\r\\n        \\r\\n\\f     
-  Juliet Pro          \\r\\n        \\r\\n\\f     
-  Juliet Classic      \\r\\n        \\r\\n\\f     
-  Romeo 25            \\r\\n        \\r\\n\\f     
-  Romeo Pro50         \\r\\n        \\r\\n\\f     
-  Romeo Attache       \\n           \\n\\f        
-  Romeo Attache Pro   \\n           \\n\\f        
-  Romeo 60            \\r\\n        \\f           \\x1a
-  Juliet 120          \\r\\n        \\f           \\x1a
+| Model             | End of line | End of page | Footer |
+|-------------------|-------------|-------------|--------|
+| Phoenix Gold      | \r\n        | \r\n\f      | \x1a   |
+| Phoenix silver    | \r\n        | \\r\n\f     | \x1a   |
+| Cyclone           | \r\n        | \r\n\f      | \x1a   |
+| Trident           | \r\n        | \r\n\f      | \x1a   |
+| Book Maker        | \r\n        | \r\n\f      |        |
+| Braille Express   | \r\n        | \r\n\f      |        |
+| Thomas            | \r\n        | \r\n\f      |        |
+| Thomas Pro        | \r\n        | \r\n\f      |        |
+| ET                | \r\n        | \r\n\f      |        |
+| Juliet Pro60      | \r\n        | \r\n\f      |        |
+| Juliet Pro        | \r\n        | \r\n\f      |        |
+| Juliet Classic    | \r\n        | \r\n\f      |        |
+| Romeo 25          | \r\n        | \r\n\f      |        |
+| Romeo Pro50       | \r\n        | \r\n\f      |        |
+| Romeo Attache     | \n          | \n\f        |        |
+| Romeo Attache Pro | \n          | \n\f        |        |
+| Romeo 60          | \r\n        | \f          | \x1a   |
+| Juliet 120        | \r\n        | \f          | \x1a   |
 
 ##### Index Braille
 
-  Model           End of line   End of page   Footer
-  --------------- ------------- ------------- --------
-  Basic-D V5      \\r\\n        \\f           \\x1a
-  Basic-D V4      \\r\\n        \\f           \\x1a
-  Everest-D V5    \\r\\n        \\f           \\x1a
-  Everest-D V4    \\r\\n        \\f           \\x1a
-  BrailleBox V5   \\r\\n        \\f           \\x1a
-  BrailleBox V4   \\r\\n        \\f           \\x1a
-  Fanfold V5      \\r\\n        \\f           \\x1a
+| Model         | End of line | End of page | Footer |
+|---------------|-------------|-------------|--------|
+| Basic-D V5    | \r\n        | \f          | \x1a   |
+| Basic-D V4    | \r\n        | \f          | \x1a   |
+| Everest-D V5  | \r\n        | \f          | \x1a   |
+| Everest-D V4  | \r\n        | \f          | \x1a   |
+| BrailleBox V5 | \r\n        | \f          | \x1a   |
+| BrailleBox V4 | \r\n        | \f          | \x1a   |
+| Fanfold V5    | \r\n        | \f          | \x1a   |
