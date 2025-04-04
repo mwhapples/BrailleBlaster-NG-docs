@@ -3,7 +3,7 @@
 ### February, 2023
 
 ```{contents} Table of contents
-:depth: 3
+:depth: 4
 ```
 
 ## Getting Started
