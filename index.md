@@ -2,8 +2,7 @@
 
 ### February, 2023
 
-{{\>toc}}
-
+[[_TOC]]
 ## Getting Started
 
 Please watch our videos: [Introduction to
