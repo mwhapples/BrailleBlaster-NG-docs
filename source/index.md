@@ -2,7 +2,10 @@
 
 ### February, 2023
 
-[[_TOC]]
+```{contents} Table of contents
+:depth: 3
+```
+
 ## Getting Started
 
 Please watch our videos: [Introduction to
