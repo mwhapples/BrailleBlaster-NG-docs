@@ -3,6 +3,7 @@ name = "brailleblaster-docs"
 version = "3.0"
 dependencies = [
     "sphinx",
-    "myst-parser"
+    "myst-parser",
+    "sphinx_rtd_theme"
 ]
 requires-python = ">=3.11"
