@@ -3528,9 +3528,6 @@ and it learns this through the selection made by the user.
 
 | Style Name | Description | Margins | Blank Line |
 |------------|-------------|---------|------------|
-
-|  |  |  |  |
-|----|----|----|----|
 | Transcriber’s Note | Each paragraph of selected text is enclosed in transcriber’s note indicators | 7-5 | None |
 
 #### Boxes Options Specification Table
