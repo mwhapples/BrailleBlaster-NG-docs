@@ -3527,50 +3527,19 @@ and it learns this through the selection made by the user.
 #### Miscellaneous Styles Specification Table
 
 | Style Name | Description | Margins | Blank Line |
-|------------|-------------|---------|------------|
+|----|----|----|----|
 | Transcriber’s Note | Each paragraph of selected text is enclosed in transcriber’s note indicators | 7-5 | None |
 
 #### Boxes Options Specification Table
 
 Within the Miscellaneous Styles are several options for Boxes.
 
-<table>
-<thead>
-<tr>
-<th>Style Name</th>
-<th>Description</th>
-<th>Blank Line</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Box</td>
-<td>Selected text appears within a top and bottom box line</td>
-<td>Before the top box line &amp; After the bottom box line</td>
-</tr>
-<tr>
-<td>Color Box</td>
-<td>Selected text appears within a top and bottom box line, and the
-color you type in the pop-up appears within<br />
-transcriber’s notes on the top box line</td>
-<td>Before the top box line &amp; After the bottom box line</td>
-</tr>
-<tr>
-<td>Full Box</td>
-<td>Selected text appears within a top and bottom full box line<br />
-(the exterior borders for a set of nested boxes)</td>
-<td>Before the top box line &amp; After the bottom box line</td>
-</tr>
-<tr>
-<td>Full Color Box</td>
-<td>Selected text appears within a top and bottom full box line (the
-exterior borders for a set of nested boxes),<br />
-and the color you type in the pop up window appears within transcriber’s
-notes on the top full box line</td>
-<td>Before the top box line &amp; After the bottom box line</td>
-</tr>
-</tbody>
-</table>
+| Style Name | Description | Blank Line |
+|----|----|----|
+| Box | Selected text appears within a top and bottom box line | Before the top box line & After the bottom box line |
+| Color Box | Selected text appears within a top and bottom box line, and the color you type in the pop-up appears within transcriber’s notes on the top line | Before the top box line & After the bottom box line |
+| Full Box | Selected text appears within a top and bottom full box line (the exterior borders for a set of nested boxes) | Before the top box line & After the bottom box line |
+| Full Color Box | Selected text appears within a top and bottom full box line (the exterior borders for a set of nested boxes), and the color you type in the pop up window appears within transcriber’s notes on the top full box line | Before the top box line & After the bottom box line |
 
 ## Appendix B: Shortcut Key Combinations
 
