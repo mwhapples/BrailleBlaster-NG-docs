@@ -9,7 +9,7 @@
 project = 'BrailleBlaster-NG User Documentation'
 copyright = '2025, American Printing House for the Blind'
 author = 'American Printing House for the Blind'
-release = '2025.1.3'
+release = '2026.2.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
