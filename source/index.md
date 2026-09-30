@@ -1,17 +1,10 @@
-# BrailleBlaster User Manual Version 2.1
-
-### February, 2023
+# BrailleBlaster User Manual
 
 ```{contents} Table of contents
 :depth: 4
 ```
 
 ## Getting Started
-
-Please watch our videos: [Introduction to
-BrailleBlaster](https://www.youtube.com/watch?v=AJEbIoO_ybg) and
-[Getting Started with
-BrailleBlaster](https://www.youtube.com/watch?v=682dbbo6SmU&t=2s)!
 
 ### Modifying the View
 
